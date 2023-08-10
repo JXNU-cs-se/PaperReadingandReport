@@ -12,3 +12,4 @@
 | 2 | 2023-07-11 | 钟崇文 | 基于图神经网络的基于代码语义和结构信息的软件缺陷预测  | [摘要]
 | 3 | 2023-07-16 | 李延康 | 推荐系统何去何从，经典ID范式要被颠覆？  | [摘要]
 | 4 | 2023-08-8 | 钟萍 | 代码坏味研究综述  |    | [代码坏味研究综述](http://www.jos.org.cn/1000-9825/6431.htm) | [PPT](https://github.com/JXNU-cs-se/PaperReadingandReport/blob/main/PPT/20230808%E4%BB%A3%E7%A0%81%E5%9D%8F%E5%91%B3%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pptx)| --- |
+| 5 | 2023-08-01 | 罗荣 | 面向具体和连接的AI风险评估(C2AIRA):系统的制图研究 | [摘要](20230620%E7%BD%97%E8%8D%A3%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%8C%BA%E5%9D%97%E9%93%BE%E7%BB%BC%E8%BF%B0%E9%98%85%E8%AF%BB%E6%91%98%E8%A6%81V0.3.docx)| [轻量级区块链技术综述 URL ](https://jos.org.cn/jos/article/abstract/6421) or [PDF2]
